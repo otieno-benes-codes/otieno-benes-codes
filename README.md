@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Benes Ouma 👋</h1>
+<h1 align="center">Hi, I'm Benes Otieno 👋</h1>
 <h3 align="center">Senior MERN Stack Developer · Full-Stack Web Developer · IT Support Specialist</h3>
 
 <p align="center">
